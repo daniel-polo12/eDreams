@@ -1,0 +1,13 @@
+<!ELEMENT coches (coche+)>
+<!ELEMENT coche (matricula, datos, informacion)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT datos (marca, modelo, foto)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT informacion (motor, puertas, chasis, transmision, neumatico)>
+<!ELEMENT motor (#PCDATA)>
+<!ELEMENT puertas (#PCDATA)>
+<!ELEMENT chasis (#PCDATA)>
+<!ELEMENT transmision (#PCDATA)>
+<!ELEMENT neumatico (#PCDATA)>

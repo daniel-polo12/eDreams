@@ -1,0 +1,5 @@
+User-agent: *
+Disllow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+sitemap: https://daniel-polo12.github.io/eDreams/sitemap.xml

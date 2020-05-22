@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT/vuelo.xslt"?>
+<aeropuertos>
+ <aeropuerto>
+    <nombre>Adolfo Suárez</nombre>
+    <pais>España</pais>
+    <provincia>Madrid</provincia>
+    <capacidad>120000</capacidad>
+    <n.aviones>47</n.aviones>
+    <foto>../imagenes/adolfo.svg</foto>
+  </aeropuerto>
+   <aeropuerto>
+    <nombre>El Altet</nombre>
+    <pais>España</pais>
+    <provincia>Murcia</provincia>
+    <capacidad>66000</capacidad>
+    <n.aviones>24</n.aviones>
+    <foto>../imagenes/altet.svg</foto>
+  </aeropuerto>
+   <aeropuerto>
+    <nombre>La Mordida</nombre>
+    <pais>Mexico</pais>
+    <provincia>Canilleras</provincia>
+    <capacidad>15000</capacidad>
+    <n.aviones>14</n.aviones>
+    <foto>../imagenes/mordida.svg</foto>
+  </aeropuerto>
+   <aeropuerto>
+    <nombre>Parsero</nombre>
+    <pais>Colombia</pais>
+    <provincia>Bogotá</provincia>
+    <capacidad>25000</capacidad>
+    <n.aviones>26</n.aviones>
+    <foto>../imagenes/parsero.svg</foto>
+  </aeropuerto>
+   <aeropuerto>
+    <nombre>El Castillo</nombre>
+    <pais>España</pais>
+    <provincia>León</provincia>
+    <capacidad>350000</capacidad>
+    <n.aviones>24</n.aviones>
+    <foto>../imagenes/castillo.svg</foto>
+  </aeropuerto>
+   <aeropuerto>
+    <nombre>Artesiles</nombre>
+    <pais>Chile</pais>
+    <provincia>Guanterino</provincia>
+    <capacidad>16000</capacidad>
+    <n.aviones>16</n.aviones>
+    <foto>../imagenes/artiles.svg</foto>
+  </aeropuerto>
+</aeropuertos>
+    
