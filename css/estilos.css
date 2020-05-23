@@ -87,7 +87,8 @@
 			-webkit-transform: translateY(-50%);
 			-ms-transform: translateY(-50%);
 			transform: translateY(-50%);
-
+			margin-left: 0.5%;
+		
 		}
 
 		.icon-bar a {
@@ -97,6 +98,9 @@
 			transition: all 0.3s ease;
 			color: white;
 			font-size: 1.25rem;
+		
+			
+		
 		}
 
 		.icon-bar a:hover {
@@ -111,6 +115,8 @@
 			border-style: inherit;
 			margin-bottom: 10%;
 			text-decoration: none;
+			
+			
 		}
 
 		.twitter {
@@ -154,6 +160,7 @@
 			margin-bottom: 28%;
 			margin-left: -0.45%;
 			margin-right: -0.45%;
+			
 
 		}
 
@@ -167,6 +174,10 @@
 			margin-left: 3%;
 			margin: auto;
 			color: gray;
+			
+			
+			
+				
 		}
 
 		.encima {
