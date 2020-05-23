@@ -53,7 +53,6 @@
 			text-decoration: none;
 
 		}
-
 		.Vuelos {
 
 			font-family: 'Lobster Two', cursive;

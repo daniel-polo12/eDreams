@@ -38,7 +38,7 @@
 			background-color: #acd8f2;
 		}
 
-		.navegacion {
+			.navegacion {
 			background-image: url(../imagenes/edreams.svg);
 			background-repeat: no-repeat;
 			background-size: contain;
