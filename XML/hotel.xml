@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT/hotel.xslt"?>
+<hoteles>
+<hotel>
+	<nombre>Intercontinental</nombre>
+	<calle>Paseo de la Castellana</calle>
+	<ciudad>Madrid</ciudad>
+	<pais>España</pais>
+	<tipo_de_habitaciones>Gama alta y media</tipo_de_habitaciones>
+	<precio>250 y 180</precio>
+	<ocupantes>5 máx</ocupantes>
+	<mascota>No</mascota>
+	<foto>../imagenes/inter.svg</foto>
+</hotel>
+<hotel>
+	<nombre>Los Pinos</nombre>
+	<calle>Calle Mayor</calle>
+	<ciudad>Sevilla</ciudad>
+	<pais>España</pais>
+	<tipo_de_habitaciones>Gama alta y media</tipo_de_habitaciones>
+	<precio>175 y 98</precio>
+	<ocupantes>6 máx</ocupantes>
+	<mascota>Si</mascota>
+	<foto>../imagenes/pinos.svg</foto>
+</hotel>
+<hotel>
+	<nombre>Los Cachopos</nombre>
+	<calle>Ribera de Curtidores</calle>
+	<ciudad>Oviedo</ciudad>
+	<pais>España</pais>
+	<tipo_de_habitaciones>Gama media y baja</tipo_de_habitaciones>
+	<precio>120 y 68</precio>
+	<ocupantes>4 máx</ocupantes>
+	<mascota>Si</mascota>
+	<foto>../imagenes/cachopos.svg</foto>
+</hotel>
+<hotel>
+	<nombre>La Belinda</nombre>
+	<calle>Paseo de Recoletos</calle>
+	<ciudad>Mérida</ciudad>
+	<pais>España</pais>
+	<tipo_de_habitaciones>Gama media y baja</tipo_de_habitaciones>
+	<precio>98 y 54</precio>
+	<ocupantes>3 máx</ocupantes>
+	<mascota>No</mascota>
+	<foto>../imagenes/belinda.svg</foto>
+</hotel>
+<hotel>
+	<nombre>Casa Manolo</nombre>
+	<calle>Calle la Palma</calle>
+	<ciudad>Pamplona</ciudad>
+	<pais>España</pais>
+	<tipo_de_habitaciones>Gama alta y media</tipo_de_habitaciones>
+	<precio>290 y 240</precio>
+	<ocupantes>4 máx</ocupantes>
+	<mascota>No</mascota>
+	<foto>../imagenes/manolo.svg</foto>
+</hotel>
+</hoteles>

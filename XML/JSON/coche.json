@@ -1,0 +1,61 @@
+{
+  "coches": {
+    "coche": [
+      {
+        "matricula": "6574S",
+        "marca": "Audi",
+        "modelo": "A4",
+        "motor": "Gasolina",
+        "puertas": "3",
+        "chasis": "Bastidor",
+        "transmision": "Automático",
+        "neumatico": "Diagonal y radial",
+        "foto": "../imagenes/audi.svg"
+      },
+      {
+        "matricula": "5687E",
+        "marca": "BMW",
+        "modelo": "M3",
+        "motor": "GLP",
+        "puertas": "3",
+        "chasis": "Central",
+        "transmision": "Manual",
+        "neumatico": "Tubuless",
+        "foto": "../imagenes/bmw.svg"
+      },
+      {
+        "matricula": "1454H",
+        "marca": "Dacia",
+        "modelo": "1300",
+        "motor": "Híbrido",
+        "puertas": "5",
+        "chasis": "Híbrido",
+        "transmision": "CVT",
+        "neumatico": "Asimétricos direccionales",
+        "foto": "../imagenes/dacia.svg"
+      },
+      {
+        "matricula": "5548U",
+        "marca": "Jeep",
+        "modelo": "J-8",
+        "motor": "Eléctrico",
+        "puertas": "3",
+        "chasis": "Central",
+        "transmision": "Manual",
+        "neumatico": "Verdes",
+        "foto": "../imagenes/jeep.svg"
+      },
+      {
+        "matricula": "9880E",
+        "marca": "Hyundai",
+        "modelo": "E-22",
+        "motor": "Rotativo",
+        "puertas": "5",
+        "chasis": "Bastidor",
+        "transmision": "Automático",
+        "neumatico": "Runflat",
+        "foto": "../imagenes/hyundai.svg"
+      }
+    ]
+  }
+}

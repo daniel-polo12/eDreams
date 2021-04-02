@@ -1,0 +1,345 @@
+		body {
+			background-color: #acd8f2;
+
+		}
+
+		.navegacion {
+			background-image: url(../imagenes/edreams.svg);
+			background-repeat: no-repeat;
+			background-size: contain;
+			background-position: left;
+			display: inline-flex;
+			background-color: #003399;
+			width: 100%;
+			border-spacing: inherit;
+			margin-bottom: 1%;
+			font-family: 'Lobster Two', cursive;
+			text-decoration: none;
+		}
+
+		.Vuelos {
+
+			font-family: 'Lobster Two', cursive;
+			font-size: 1rem;
+			padding-left: 10%;
+			margin: auto;
+			font-size: 1.875rem;
+			text-decoration: none;
+			color: white;
+		}
+
+		.Hoteles {
+			font-family: 'Lobster Two', cursive;
+			font-size: 1rem;
+			margin: auto;
+			font-size: 1.875rem;
+			text-decoration: none;
+			color: white;
+
+		}
+
+		.CochesAlquiler {
+			font-family: 'Lobster Two', cursive;
+			font-size: 1rem;
+			margin: auto;
+			font-size: 1.875rem;
+			text-decoration: none;
+			color: white;
+
+		}
+
+		.registrar {
+			font-family: 'Roboto Condensed', sans-serif;
+			border-width: 0.0625rem;
+			font-size: 1rem;
+			line-height: 1rem;
+			border-style: solid;
+			padding: 0.4375rem;
+			border-radius: 0.25rem;
+			padding-left: 1.25rem;
+			padding-right: 1.25rem;
+			color: white;
+			background-color: gray;
+			text-decoration: none;
+			margin-left: 0.5%;
+		}
+
+		.sign {
+			color: grey;
+			margin-left: 1%;
+			text-decoration: none;
+		}
+
+		nav {
+			text-decoration: none;
+
+		}
+
+		a:hover {
+			color: #ffcc00;
+			box-sizing: content-box;
+
+		}
+
+		.icon-bar {
+			position: absolute;
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+			margin-left: 0.5%;
+		
+		}
+
+		.icon-bar a {
+			display: block;
+			text-align: center;
+			padding: 1rem;
+			transition: all 0.3s ease;
+			color: white;
+			font-size: 1.25rem;
+		
+			
+		
+		}
+
+		.icon-bar a:hover {
+			background-color: #000;
+
+		}
+
+		.facebook {
+			background: #3B5998;
+			color: white;
+			border-radius: 1rem;
+			border-style: inherit;
+			margin-bottom: 10%;
+			text-decoration: none;
+			
+			
+		}
+
+		.twitter {
+			background: #55ACEE;
+			color: white;
+			border-radius: 1rem;
+			border-style: inherit;
+			margin-bottom: 10%;
+			text-decoration: none;
+		}
+
+		.google {
+			background: #dd4b39;
+			color: white;
+			border-radius: 1rem;
+			border-style: inherit;
+			margin-bottom: 10%;
+			text-decoration: none;
+		}
+
+		.linkedin {
+			background: #007bb5;
+			color: white;
+			border-radius: 1rem;
+			border-style: inherit;
+			margin-bottom: 10%;
+			text-decoration: none;
+		}
+
+		.youtube {
+			background: #bb0000;
+			color: white;
+			border-radius: 1rem;
+			border-style: inherit;
+			margin-bottom: 10%;
+			text-decoration: none;
+		}
+
+		main {
+			margin-top: -0.45%;
+			margin-bottom: 28%;
+			margin-left: -0.45%;
+			margin-right: -0.45%;
+			
+
+		}
+
+
+		.input {
+			font-size: 0.75rem;
+			line-height: 1rem;
+			border-style: solid;
+			padding: ;
+			border-radius: 0.25rem;
+			margin-left: 3%;
+			margin: auto;
+			color: gray;
+			
+			
+			
+				
+		}
+
+		.encima {
+			color: black;
+			width: 62%;
+			height: 34.375rem;
+			padding: 3.125rem;
+			margin: auto;
+			font-family: inherit;
+			background-image: url(../imagenes/avion-1.svg);
+			font-size: 5rem;
+			text-align: center;
+			border-radius: 1rem;
+			border-style: inherit;
+		}
+
+		.reserva {
+			color: white;
+			text-decoration: none;
+
+
+		}
+
+		.izquierda {
+			color: #ffcc00;
+			width: 25%;
+			float: left;
+			padding: 25px;
+			padding-bottom: 10px;
+			margin-left: 145px;
+			margin-right: 10px;
+			font-family: 'Acme', sans-serif;
+			background-color: #003399;
+			margin-top: 30px;
+
+		}
+
+		.derecha {
+			color: #ffcc00;
+			width: 25%;
+			float: left;
+			padding: 25px;
+			padding-bottom: 132px;
+			margin-left: 10px;
+			margin-right: 10px;
+			font-family: 'Acme', sans-serif;
+			background-color: #003399;
+			margin-top: 30px;
+		}
+
+		.centro {
+			color: #ffcc00;
+			width: 25%;
+			float: left;
+			padding: 25px;
+			padding-bottom: 45px;
+			font-family: 'Acme', sans-serif;
+			margin-left: 10px;
+			margin-right: 10px;
+			background-color: #003399;
+			margin-top: 35.5px;
+
+		}
+
+		footer {
+			margin-top: 300px;
+			padding: 8px;
+		}
+
+		.cajafooter {
+			display: inline-flex;
+			background-color: dimgrey;
+			color: black;
+			width: 100%;
+			height: 9.375rem;
+			font-size: 1.875rem;
+		}
+
+		.Atencion {
+			font-family: fantasy font-size: 1rem;
+			margin: auto;
+
+		}
+
+		.RRSS {
+			font-family: fantasy font-size: 1rem;
+			margin: auto;
+
+		}
+
+		.AYUDA {
+			font-family: fantasy font-size: 1rem;
+			margin: auto;
+
+		}
+
+		.frase {
+			font-family: 'Amatic SC', cursive;
+			font-size: 4.375rem;
+			color: black;
+			margin-left: 16%;
+		}
+
+
+
+		.menu {
+			margin-left: 1%;
+			font-family: 'Roboto Condensed', sans-serif;
+			border-width: 0.0625rem;
+			font-size: 1rem;
+			line-height: 1rem;
+			border-style: solid;
+			padding: 7px;
+			border-radius: 0.25rem;
+			padding-left: 20px;
+			padding-right: 20px;
+			color: white;
+			background-color: gray;
+			text-decoration: none;
+		}
+
+
+		.form {
+			justify-content: center;
+			font-size: 30px;
+			text-align: center;
+
+
+
+		}
+
+		headerform {
+			color: #003399;
+		}
+
+		input {
+			display: flex;
+			padding: 15px;
+
+
+
+		}
+
+		label {
+			text-align: left;
+			display: flex;
+			padding: 10px;
+			align-items: center;
+
+
+		}
+
+		.div1 {
+			display: inline-flex;
+			flex-direction: column;
+
+
+		}
+
+		.div2 {
+			display: inline-flex;
+			flex-direction: column;
+
+
+		}

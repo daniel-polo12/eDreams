@@ -1,0 +1,8 @@
+﻿<!ELEMENT aeropuertos (aeropuerto+)>
+<!ELEMENT aeropuerto (nombre, foto, pais, provincia, capacidad, n.aviones)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT capacidad (#PCDATA)>
+<!ELEMENT n.aviones (#PCDATA)>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT/coche.xslt"?>
+<coches>
+<coche>
+	<matricula>6574S</matricula>
+	<marca>Audi</marca>
+		<modelo>A4</modelo>
+		<motor>Gasolina</motor>
+		<puertas>3</puertas>
+		<chasis>Bastidor</chasis>
+		<transmision>Automático</transmision>
+		<neumatico>Diagonal y radial</neumatico>
+		<foto>../imagenes/audi.svg</foto>
+	</coche>
+<coche>
+	<matricula>5687E</matricula>
+			<marca>BMW</marca>
+		<modelo>M3</modelo>
+		<motor>GLP</motor>
+		<puertas>3</puertas>
+		<chasis>Central</chasis>
+		<transmision>Manual</transmision>
+		<neumatico>Tubuless</neumatico>
+		<foto>../imagenes/bmw.svg</foto>
+	</coche>
+<coche>
+	<matricula>1454H</matricula>
+			<marca>Dacia</marca>
+		<modelo>1300</modelo>
+				<motor>Híbrido</motor>
+		<puertas>5</puertas>
+		<chasis>Híbrido</chasis>
+		<transmision>CVT</transmision>
+		<neumatico>Asimétricos direccionales</neumatico>
+		<foto>../imagenes/dacia.svg</foto>
+	</coche>
+<coche>
+	<matricula>5548U</matricula>
+			<marca>Jeep</marca>
+		<modelo>J-8</modelo>
+		<motor>Eléctrico</motor>
+		<puertas>3</puertas>
+		<chasis>Central</chasis>
+		<transmision>Manual</transmision>
+		<neumatico>Verdes</neumatico>
+		<foto>../imagenes/jeep.svg</foto>
+	</coche>
+<coche>
+	<matricula>9880E</matricula>
+		<marca>Hyundai</marca>
+		<modelo>E-22</modelo>
+  	<motor>Rotativo</motor>
+		<puertas>5</puertas>
+		<chasis>Bastidor</chasis>
+		<transmision>Automático</transmision>
+		<neumatico>Runflat</neumatico>
+		<foto>../imagenes/hyundai.svg</foto>
+	</coche>
+</coches>

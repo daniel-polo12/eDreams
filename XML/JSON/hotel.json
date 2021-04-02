@@ -1,0 +1,54 @@
+{
+  "aeropuertos": {
+    "aeropuerto": [
+      {
+        "nombre": "Adolfo Suárez",
+        "pais": "España",
+        "provincia": "Madrid",
+        "capacidad": "120000",
+        "n.aviones": "47",
+        "foto": "../imagenes/adolfo.svg"
+      },
+      {
+        "nombre": "El Altet",
+        "pais": "España",
+        "provincia": "Murcia",
+        "capacidad": "66000",
+        "n.aviones": "24",
+        "foto": "../imagenes/altet.svg"
+      },
+      {
+        "nombre": "La Mordida",
+        "pais": "Mexico",
+        "provincia": "Canilleras",
+        "capacidad": "15000",
+        "n.aviones": "14",
+        "foto": "../imagenes/mordida.svg"
+      },
+      {
+        "nombre": "Parsero",
+        "pais": "Colombia",
+        "provincia": "Bogotá",
+        "capacidad": "25000",
+        "n.aviones": "26",
+        "foto": "../imagenes/parsero.svg"
+      },
+      {
+        "nombre": "El Castillo",
+        "pais": "España",
+        "provincia": "León",
+        "capacidad": "350000",
+        "n.aviones": "24",
+        "foto": "../imagenes/castillo.svg"
+      },
+      {
+        "nombre": "Artesiles",
+        "pais": "Chile",
+        "provincia": "Guanterino",
+        "capacidad": "16000",
+        "n.aviones": "16",
+        "foto": "../imagenes/artiles.svg"
+      }
+    ]
+  }
+}

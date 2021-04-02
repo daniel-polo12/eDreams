@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="../imagenes/favicon.PNG" />
+	<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+	<link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap" rel="stylesheet">
+	<meta name="author" content="Daniel Polo Gómez" />
+	<meta name="description" content="Una pagina web basada en eDreams" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
+	<title>BUSCA, RESERVA Y VIAJA</title>
+
+</head>
+
+<body>
+	<main>
+
+		<nav>
+			<div class="navegacion">
+				<a href="../XML/vuelo.xml" class="Vuelos">Vuelos</a>
+				<a href="../XML/hotel.xml" class="Hoteles">Hoteles</a>
+				<a href="../XML/coche.xml" class="CochesAlquiler">Alquiler de Coches</a>
+				<input type="search" placeholder="Encuentra vuelos, hoteles..." size="30px" />
+
+
+			</div>
+			<a href="../index.html" class="menu">MENÚ PRINCIPAL</a>
+
+		</nav>
+
+		<headerform>
+			<form class="form" name="f1" method="get" action="tratar.hph">
+				<div class="div1">
+					<label> Nombre:</label>
+					<label>Apellidos:</label>
+					<label>Email:</label>
+					<label>Teléfono:</label>
+					<label>Fecha de entrada:</label>
+					<label>Fecha de salida:</label>
+					<label>Nº de Personas:</label> <label>Mascotas:</label>
+				</div>
+
+				<div class="div2">
+
+
+					<input type="text" name="nombre" />
+					<input type="text" name="Apellido" />
+					<input type="email" name="email" placeholder="francisco@gmail.com" />
+					<input type="text" name="nombre">
+					<input type="date" name="bday" />
+					<input type="date" name="bday" />
+					<input type="text" name="nombre" />
+					<input type="radio" name="gender" value="male">Sí
+					<input type="radio" name="gender" value="female"> No
+					<input type="submit" value="enviar" name="nombre" />
+				</div>
+			</form>
+		</headerform>
+
+		<footer>
+			<div class="cajafooter">
+				<a class="Atencion">Atención al Cliente</a>
+				<a class="RRSS">RRSS</a>
+				<a class="AYUDA">AYUDA</a>
+			</div>
+
+
+		</footer>
+	</main>
+</body>
+
+</html>
